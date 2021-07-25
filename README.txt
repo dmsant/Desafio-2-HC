@@ -1,0 +1,1 @@
+Estrutura de um site feio utilizando react onde se consome dados de uma API e salva a seleção no local storage.
